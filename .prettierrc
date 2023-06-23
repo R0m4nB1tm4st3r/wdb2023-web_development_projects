@@ -1,0 +1,20 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "prettier.arrowParens": "always",
+  "prettier.bracketSameLine": true,
+  "prettier.bracketSpacing": true,
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.enable": true,
+  "prettier.enableDebugLogs": false,
+  "prettier.endOfLine": "lf",
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 80,
+  "prettier.proseWrap": "preserve",
+  "prettier.quoteProps": "as-needed",
+  "prettier.semi": true,
+  "prettier.trailingComma": "es5",
+  "prettier.useEditorConfig": true,
+  "prettier.useTabs": false
+}
